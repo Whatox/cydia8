@@ -31,7 +31,7 @@ Version: 7.1.1
 Architecture: iphoneos-arm
 Maintainer: julioverne
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.julioverne.cydown_7.1.1.deb
+Filename: ./debs/com.julioverne.cydown.deb
 Size: 0
 MD5sum: 0
 SHA1: 0
