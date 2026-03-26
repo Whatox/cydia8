@@ -1,1 +1,20 @@
-
+<package>
+    <id>com.julioverne.cydown</id>
+    <name>CyDown</name>
+    <version>7.1.1</version>
+    <compatibility>
+        <firmware>
+            <miniOS>6.0</miniOS>
+            <maxiOS>9.0</maxiOS>
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    <descriptionlist>
+        <description>Позволяет в Cydia/Zebra бесплатно скачивать платные твики</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+        <change>Version 7.1.1</change>
+    </changelog>
+    <links></links>
+</package>
