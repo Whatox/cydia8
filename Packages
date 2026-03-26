@@ -26,3 +26,17 @@ Name: New Icons
 Author: Gregory Dmitriev
 Depiction: https://cydia-repo.github.io/repo/depictions/?p=com.gregorydmitriev.newicons
 
+Package: com.julioverne.cydown
+Version: 7.1.1
+Architecture: iphoneos-arm
+Maintainer: julioverne
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.julioverne.cydown_7.1.1.deb
+Size: 0
+MD5sum: 0
+SHA1: 0
+SHA256: 0
+Section: Tweaks
+Description: Download tweaks directly from Cydia
+Name: CyDown
+Depiction: https://whatox.github.io/cydia8/depictions/?p=com.julioverne.cydown
